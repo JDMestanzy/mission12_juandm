@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.TeamCard {
+  border: 8px solid black;
+  text-align: center;
+  padding: auto;
+  margin: 10px auto;
+  width: 20%;
+}
+
